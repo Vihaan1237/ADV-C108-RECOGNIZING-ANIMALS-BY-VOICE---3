@@ -1,0 +1,38 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background-color: rgb(153, 199, 201);
+}
+
+.header_div{
+    font-family: 'Pacifico', cursive;
+    background-color:rgb(243, 136, 6);
+}
+
+.header_div p{
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+
+}
+
+#animal_voices{
+    font-family: 'Permanent Marker', cursive;
+}
+
+.main_div button{
+    margin-top: 30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:darkorange;
+    background-color:whitesmoke;
+ width: 100%;
+ bottom:0;
+ font-size:18px;
+ text-align:center;
+ text-shadow: 5px 5px 5px darkorange;
+}
